@@ -59,8 +59,8 @@ Simple ERC20 token:
 
 ```bash
 # Clone the repository
-git clone https://github.com/salmanblockversedev/simple-purchase-lock.git
-cd simple-purchase-lock
+git clone https://github.com/salmanblockversedev/simple-lock.git
+cd simple-lock
 
 # Install dependencies
 npm install
